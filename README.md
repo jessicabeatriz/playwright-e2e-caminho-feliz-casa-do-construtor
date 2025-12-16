@@ -49,7 +49,7 @@ O projeto segue o padrão **Page Object Model (POM)**:
  
 1️⃣ **Clone o repositório:**
 ```
-git clone https://github.com/jessicabeatriz/nome-do-repositorio.git
+git clone https://github.com/jessicabeatriz/playwright-e2e-caminho-feliz-casa-do-construtor.git
 cd playwright-e2e-caminho-feliz-casa-do-construtor
 ```
 2️⃣ **Instale as dependências:**
