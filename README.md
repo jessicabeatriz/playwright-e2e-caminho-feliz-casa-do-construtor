@@ -77,7 +77,7 @@ npx playwright install
 
 📸 Evidências
 
-<img width="1863" height="795" alt="image" src="https://github.com/user-attachments/assets/5958a2a2-4688-429e-94d9-ed94159a067a" />
+<img width="1864" height="759" alt="image" src="https://github.com/user-attachments/assets/c9c97455-fd37-4bdd-b39f-6d8ee2097f58" />
 
 Os testes geram screenshots automáticos ao final do fluxo, armazenados na pasta:
 
