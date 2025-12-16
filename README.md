@@ -83,7 +83,10 @@ Os testes geram screenshots automáticos ao final do fluxo, armazenados na pasta
 
 /screenshots
 
-👩‍💻 Autora
+---
+
+## 👩‍💻 Autora
 
 Jéssica Beatriz da Silva
+
 QA | Desenvolvedora Web
